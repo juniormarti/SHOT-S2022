@@ -1,0 +1,75 @@
+
+
+#cont-global{
+    position: relative;
+}
+
+#cont-global .cont-form-u{
+    padding: 80px 40px;
+    background: linear-gradient(#740e1c, #2c2e2e);  
+}
+
+#cont-global .cont-form-u h2,
+#cont-global .cont-form-u p,
+#cont-global .cont-form-u label{
+    color: rgb(255, 255, 255);
+}
+
+.cont-tabla{
+    padding: 80px 80px;
+}
+
+.cont-tabla h2{
+    color: #1678a5;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#cont-global .cont-form-p{
+    padding: 80px 40px;
+    background: linear-gradient(#2c2e2e, #10acac);  
+}
+
+#cont-global .cont-form-p h2,
+#cont-global .cont-form-p p,
+#cont-global .cont-form-p label{
+    color: rgb(255, 255, 255);
+}
+
+.card-product{
+    box-shadow: 0px 2px 3px 0px black;
+    width: 100%;
+    max-width: 310px;
+    margin: 0 auto;
+}
+
+.card-product img{
+    width: 98%;
+}
+
+.card-product h3{
+    color: #2c2e2e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    margin-bottom: 10px;
+    padding: o 12px;
+}
+
+.card-product h4{
+    color: #740e1c;
+    padding: o 12px;
+}
+.card-product p{
+    color: #2c2e2e;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: o 12px;
+}
+
+.card-product a{
+    display: block;
+    text-decoration: none;
+    padding: 12px 30px;
+    background: #2c2e2e;
+    color: aliceblue;
+}
+
